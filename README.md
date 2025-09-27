@@ -1,5 +1,5 @@
 # Hello-World-Solidity
-You have to start somewhere! 🚀  
+You have to start somewhere! 
 This is my very first (and very simple) smart contract: the classic **Hello World**.  
 I wrote, ran, and deployed it using [Remix](https://remix.ethereum.org/).
 If you’re a beginner, feel free to use this lesson. If you’re more experienced, I’d love your feedback to improve my content!
