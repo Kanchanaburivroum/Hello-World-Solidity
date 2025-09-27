@@ -17,5 +17,5 @@ The contract `HelloWorld` contains:
 - Deploy and call the GetHelloWorld function → it should return " 0:string: Hello World "
 
 ## Repository structure
-- contracts/HelloWorld.sol → the Solidity contract
+- Code → the Solidity contract
 - README.md → project description & usage instructions
