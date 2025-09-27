@@ -1,2 +1,21 @@
 # Hello-World-Solidity
-You have to start somewhere! This is my very first (and very simple) smart contract: the classic Hello World. I ran and deployed it on Remix .  In this repository, you can find:  📂 contracts/HelloWorld.sol: the Solidity contract  📄 README.md: a short explanation of the project and how to test it  📜 LICENSE: the MIT license
+You have to start somewhere! 🚀  
+This is my very first (and very simple) smart contract: the classic **Hello World**.  
+I wrote, ran, and deployed it using [Remix](https://remix.ethereum.org/).
+
+## Contract
+
+The contract `HelloWorld` contains:
+- A private state variable `stateVariable` initialized with `"Hello World"`
+- A public view function `GetHelloWorld()` that returns the message
+
+## How to run it
+- Open Remix
+- Create a file HelloWorld.sol inside a contracts/ folder.
+- Copy-paste the contract code above.
+- Compile with Solidity version 0.7.x or 0.8.x.
+- Deploy and call the GetHelloWorld function → it should return " 0:string: Hello World "
+
+## Repository structure
+- contracts/HelloWorld.sol → the Solidity contract
+- README.md → project description & usage instructions
