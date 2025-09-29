@@ -13,16 +13,4 @@ The contract `HelloWorld` contains:
 - README.md → project description & usage instructions
 - Lesson's pdf : 1. Hello World.sol → A brief lesson on the basic concepts of Solidity to learn and an explanation of the Hello World code.
 
-## What I learn 
-Key concepts : 
-- Solidity : a programming language for writing smart contracts on Ethereum.
-- Smart contract : a program that runs automatically on the blockchain.
-- License : Determines what others can do with your code. Always add at the top of the file // SPDX-License-Identifier: MIT
-- Compiler version :A compiler translates Solidity code into bytecode for the Ethereum Virtual Machine (EVM). Since Solidity changes often, specifying the compiler version ensures compatibility.
-- Visibility
-    - public → accessible from inside and outside the contract.
-    - private → accessible only inside the contract.
-    - view → reads data without changing the blockchain.
-    - pure → neither reads nor changes the blockchain.
-
 
